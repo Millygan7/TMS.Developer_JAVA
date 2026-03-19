@@ -20,7 +20,8 @@ public class ChessBoard {
             for (int j = 0; j < 8; j++) {
                 System.out.print(chessBoard[i][j] + " ");
             }
-            System.out.println(); // Переход на новую строку после каждой строки доски
+            System.out.println();
+            // Переход на новую строку после каждой строки доски
         }
     }
 }
