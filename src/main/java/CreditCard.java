@@ -59,7 +59,7 @@ public class CreditCard {
         CreditCard creditCard1 = new CreditCard(1, 300);
         CreditCard creditCard2 = new CreditCard(2, 500);
         CreditCard creditCard3 = new CreditCard(3, 700);
-        System.out.println("Операции по карте 1:");
+        System.out.println("Операции по карте 2:");
         creditCard1.accrual(1000);
         creditCard1.accrual(250);
         creditCard1.removal(300);
