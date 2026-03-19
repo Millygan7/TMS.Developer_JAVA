@@ -17,6 +17,8 @@ public static void main(String[] args) {
     }else {
 
         System.out.println("Последовательности нет");
+        System.out.println("Последовательности нет");
+
         }
 
                 System.out.println(Arrays.toString(numbers));
