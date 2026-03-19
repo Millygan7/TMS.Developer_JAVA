@@ -30,6 +30,7 @@ public static void main(String[] args) {
             sum += matrix[i][j];
 
     System.out.println("Сумма элементов массива: " + sum);
+    System.out.println("Сумма элементов массива: " + sum);
     }
 
 
