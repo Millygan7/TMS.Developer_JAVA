@@ -22,7 +22,7 @@ public class Main {
         Pathient pathient = new Pathient(doctorName, plan, clinic.getSurgeon(), clinic.getTherapist(), clinic.getDentist());
 
         System.out.println("Вы выбрали доктора: " + pathient.getDoctor());
-        System.out.println("План лечения: " + pathient.getPlanLechenia());
+        System.out.println("План лечения1: " + pathient.getPlanLechenia());
 
     }
 }
