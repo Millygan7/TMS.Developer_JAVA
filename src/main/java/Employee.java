@@ -1,7 +1,13 @@
-public abstract class Employee implements Print {
+public class Employee implements Print {
+    private String name;
 
-@Override
-public  void print() {
-    System.out.println("Employee");
+     Employee(String name) {
+        this.name = name;
+    }
+
+    @Override
+    public void print() {
+        System.out.println("Должность: Рабочий, Имя: " + name);
+    }
 }
-}
+
