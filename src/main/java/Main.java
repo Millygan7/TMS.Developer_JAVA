@@ -1,3 +1,10 @@
+/**
+ * @author Pleshakov Vladimir
+ * @date 20.04.2026
+ * @description Class Strings
+ */
+
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.util.regex.Matcher;
