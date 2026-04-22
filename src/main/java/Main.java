@@ -132,7 +132,7 @@ public static void main(String[] args) throws IOException {
             "contractR1S2T3U4V5W6X7Y",
             "docnumM5N6O7P8Q9R0S1T",
             "contractA5B6C7D8E9F0G1H",
-            "docnumX3Y4Z5A6B7C8D9E",
+            "docnumX3Y4Z5A9B7C8D9E",
             "contractP2Q3R4S5T6U7V8W",
             "docnumH7J8K9L0M1N2O3P",
             "contractW4X5Y6Z7A8B9C0D",
