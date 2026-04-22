@@ -71,6 +71,7 @@ public static void  main(String[] args) {
         String input = scanner.nextLine().trim();
         strings[i] = (input != null) ? input : "";
     }
+}
 
 
 
