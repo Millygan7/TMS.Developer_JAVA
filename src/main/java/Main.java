@@ -1,3 +1,8 @@
+/**
+ * @author Pleshakov Vladimir
+ * @date 15.04.2026
+ * @description Exception and Error
+ */
 
 
 public class Main {
