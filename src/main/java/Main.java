@@ -22,6 +22,7 @@
 //        (поверхностное клонирование или глубокое), а также id юзера для клонирования
 public static void main(String[] args) {
     User user = new User("Danny", "derley63@yandex.ru", 9999241);
+    User user1 = new User("Danny", "derley63@yandex.ru", 9999242);
     System.out.println("Данные до клонирования :" + user.getUsername() + "  " + user.getEmail() + " " + user.getID() );
     User clone;
     try{
