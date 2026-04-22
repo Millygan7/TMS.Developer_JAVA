@@ -1,4 +1,8 @@
-
+/**
+ * @author Pleshakov Vladimir
+ * @date 01.04.2026
+ * @description Class Strings
+ */
 
 public class Main {
 }
