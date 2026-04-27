@@ -13,7 +13,7 @@
 //        SystemUser systemUser1 = new SystemUser("Danny", 123455667, 925100232);
 //        System.out.println("systemUser .equals(systemUser1)? " + systemUser.equals(systemUser1));
 //        System.out.println(systemUser1.hashCode() == systemUser.hashCode());
-//        System.out.println(systemUser1);
+//        System.out.println(systemUser);
 //
 //    }
 //                                    Задача *:
