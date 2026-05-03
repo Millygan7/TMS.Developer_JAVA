@@ -69,7 +69,7 @@ public  class SystemUser extends Object {
     public String toString() {
         return "SystemUser{"
                 + "username='" + username + '\''
-                + ", telephoneUser=" + telephoneUser
+                + ", telehoneUser=" + telephoneUser
                 + ", ID=" + ID
                 + '}';
 

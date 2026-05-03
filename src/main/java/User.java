@@ -45,6 +45,6 @@ public class User implements Cloneable {
 
 @Override
     public User clone() throws CloneNotSupportedException {
-        return (User)super.clone();//Поверхностное клонирование
+        return (User)super.clone();
     }
 }
