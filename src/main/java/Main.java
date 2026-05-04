@@ -69,7 +69,7 @@ public static void  main(String[] args) {
     for (int i = 0; i < 3; i++) {
         System.out.print("Введите строку " + (i + 1) + ": ");
         String input = scanner.nextLine().trim();
-        strings[i] = (input != null) ? input : "";
+        strings[i] = (input != null) ? input : ":";
     }
     }
 
