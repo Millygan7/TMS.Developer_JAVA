@@ -1,5 +1,3 @@
-
-
 /**
  * @author Pleshakov Vladimir
  * @date 08.04.2026
@@ -9,7 +7,7 @@
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 //public class Main {
-}
+//}
 
 
 
@@ -35,9 +33,3 @@ import java.util.regex.Pattern;
 //    }
 //
 //public static void main(String[] args)
-
-
-
-
-
-
