@@ -29,7 +29,7 @@ public static void main(String[] args) {
         clone = user.setUsername("Milligan");
         clone = user.setID(12323);
         clone = user.setEmail("fcMU.com");
-        System.out.println("клон после изменения данные " +
+        System.out.println("клон после изменения данные : " +
                 clone.getUsername() + " - " + clone.getID() + "ID");
     } catch (CloneNotSupportedException e) {
         throw new RuntimeException(e);
