@@ -9,7 +9,7 @@ public class VerificationUserInput {
 
     public static void verification() {
         Userinput userinput = new Userinput();
-        userinput.setLogin("affwafwa");
+        userinput.setLogin("Danny");
         userinput.setPassword("pass");
         userinput.setConfirmPassword("pass123");
 
