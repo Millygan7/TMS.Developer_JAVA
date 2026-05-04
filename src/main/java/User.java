@@ -2,7 +2,7 @@
 @author
 Pleshakov Vladimir
  *@date 31.03.2026
-        *@description Methods class Object
+        *@description Method class Object
  */
 
 public class User implements Cloneable {
