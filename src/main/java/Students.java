@@ -71,7 +71,7 @@ class Students {
         List<Students> students = new ArrayList<>();
         Students students1 = new Students("wfwaf","dsad",3,3);
         students.add(new Students("Aleksey", "Full", 3, 3.4));
-        students.add(new Students("Vladimir", "Correspondence", 2, 4.7));
+        students.add(new Students("Vladimir", "Correspondenc", 2, 4.7));
         students.add(new Students("Ivan", "Remote", 4, 5.3));
         students.add(new Students("Semen", "Full-time and part-time", 4, 3.3));
         students.add(new Students("Ekaterina", "Full", 3, 4.7));
