@@ -42,12 +42,12 @@ public class Userinput {
             throw new WrongLoginException("Пароль не должен превышать 20 символов");
         }
         if (!password.matches(".*\\d.*")) {
-            throw new WrongLoginException("Пароль должен содержать хотя бы одну цифру");
+            throw new WrongLoginException("Пароль должен содержать хотя бы одну цифру:");
         }
     }
     public static boolean validation(String password,  String confirmPassword) throws WrongPasswordException{
         if (!password.equals(confirmPassword)) { // Исправлено условие
-            throw new WrongPasswordException("Пароли не совпадают");
+            throw new WrongPasswordException("Пароли не совпадают:");
         }
         return true; // Пароли совпадают
     }
