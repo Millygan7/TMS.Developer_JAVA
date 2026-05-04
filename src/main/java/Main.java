@@ -31,7 +31,7 @@ import java.util.regex.Pattern;
 //        if(found)
 //            System.out.println("Найдено");
 //        else
-//            System.out.println("Не найдено");
+//            System.out.println("Не найдено:");
 //    }
 //
 //public static void main(String[] args)
