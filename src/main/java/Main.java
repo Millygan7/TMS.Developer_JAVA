@@ -78,7 +78,7 @@ private static void remove(List<Animal> animal) {
     int elementsToRemove = Math.min(1, animal.size());
     for (int i = 0; i < elementsToRemove; i++) {
         Animal removed = animal.remove(animal.size() - 1);
-        System.out.println("Удален: " + removed);
+        System.out.println("Удален " + removed);
 
     }
 
