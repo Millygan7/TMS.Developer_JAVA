@@ -28,7 +28,7 @@ public class Exercize1 {
                 countMap.put(str, countMap.getOrDefault(str, 0) + 1);
             }
 
-            // Второй проход: формирование результата
+
             for (String str : countMap.keySet()) {
                 result.put(str, countMap.get(str) >= 2);
             }
