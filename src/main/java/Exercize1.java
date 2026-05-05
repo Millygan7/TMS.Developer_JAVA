@@ -4,18 +4,18 @@ import java.util.List;
 import java.util.Map;
 
 public class Exercize1 {
-    private static List<String> word = new ArrayList<>();
+    private static List<String> words = new ArrayList<>();
 
-    public Exercize1(List<String> word) {
-        this.word = word;
+    public Exercize1(List<String> words) {
+        this.words = words;
     }
 
     public List<String> getWord() {
-        return word;
+        return words;
     }
 
-    public void setWord(List<String> word) {
-        this.word = word;
+    public void setWord(List<String> words) {
+        this.words = words;
     }
 
     public static class DuplicateChecker {

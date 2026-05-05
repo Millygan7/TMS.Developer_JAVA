@@ -13,7 +13,7 @@ public static void main(String[] args) {
 
 
     boolean result1 = checkDuplicatesInList(wordList);
-    System.out.println("Дубликаты в списке: " + result1);
+    System.out.println("Дубликаты в списке " + result1);
 }
 
 
