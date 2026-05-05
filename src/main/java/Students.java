@@ -65,7 +65,7 @@ import java.util.List;
 
         @Override
         public String toString() {
-            return "Student{name='" + name + "', course=" + course + "}";
+            return "Students{name='" + name + "', course=" + course + "}";
         }
 
         public static void removeFailingStudents(List<Students> students) {
