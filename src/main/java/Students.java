@@ -77,7 +77,7 @@ class Students {
         students.add(new Students("Ekaterina", "Full", 3, 4.7));
         students.add(new Students("Anna", "Correspondence", 2, 4.3));
         students.add(new Students("Liza", "Remote", 3, 3.3));
-        students.add(new Students("Masha", "Full-time and part-time", 4, 3.3));
+        students.add(new Students("Mash", "Full-time and part-time", 4, 3.3));
         System.out.println("До удаления " + students);
         System.out.println("После удаления: " + students);
 
