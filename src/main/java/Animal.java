@@ -15,7 +15,7 @@ this.name = name;
     }
     @Override
     public String toString() {
-        return "Animals{name='" + name + "'}";
+        return "Animal{name='" + name + "'}";
     }
 }
 
